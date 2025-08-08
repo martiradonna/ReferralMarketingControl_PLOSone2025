@@ -96,7 +96,7 @@ If you use any script or result from this repository, please cite the following 
 
 ```bibtex
 @article{LacitignolaMartiradonna2025,
-  author    = {Lacitignola, Domenico and Martiradonna, Angela},
+  author    = {Lacitignola, Deborah and Martiradonna, Angela},
   title     = {Can we enhance trust in the circular economy through referral marketing control?},
   journal   = {PLOS ONE},
   year      = {2025},
