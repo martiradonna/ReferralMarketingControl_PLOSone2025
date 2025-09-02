@@ -96,8 +96,8 @@ If you use any script or result from this repository, please cite the following 
 @unpublished{LacitignolaMartiradonna2025,
   author    = {Lacitignola, Deborah and Martiradonna, Angela},
   title     = {Can we enhance trust in the circular economy through referral marketing control?},
-  note      = {Manuscript submitted to PLOS ONE, Ms. No. PONE-D-25-26382},
-  year      = {2025}
+  note      = {PLOS One},
+  year      = {2025, forthcoming}
 }
 ```
 
