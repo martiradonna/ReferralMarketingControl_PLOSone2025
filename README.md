@@ -87,9 +87,8 @@ You are free to:
 
 If you use any script or result from this repository, please cite the following manuscript:
 
-> **Lacitignola D., Martiradonna A. (2025)**
-> *Can we enhance trust in the circular economy through referral marketing control?*
-> *Manuscript submitted to PLOS ONE*, Ms. No. PONE-D-25-26382
+> **Lacitignola D., Martiradonna A. (2025, forthcoming)**
+> *Can we enhance trust in the circular economy through referral marketing control? PLOS One*
 
 **BibTeX**:
 
