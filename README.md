@@ -2,9 +2,8 @@
 
 This repository contains the MATLAB code associated with the manuscript:
 
-> **Lacitignola D., Martiradonna A. (2025)**
-> *Can we enhance trust in the circular economy through referral marketing control?*
-> *Manuscript submitted to PLOS ONE*, Ms. No. PONE-D-25-26382
+> **Lacitignola D., Martiradonna A. (2025, forthcoming)**
+> *Can we enhance trust in the circular economy through referral marketing control? PLOS One*
 
 It includes the **model implementation**, **simulation scripts**, and **figure generation** for full reproducibility of the results presented in the manuscript.
 
