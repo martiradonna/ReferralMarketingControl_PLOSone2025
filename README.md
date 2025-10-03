@@ -2,8 +2,8 @@
 
 This repository contains the MATLAB code associated with the manuscript:
 
-> **Lacitignola D., Martiradonna A. (2025, forthcoming)**
-> *Can we enhance trust in the circular economy through referral marketing control? PLOS One*
+> **Lacitignola D., Martiradonna A. (2025)**
+> *Can we enhance trust in the circular economy through referral marketing control?* PLoS One, 20(9), e0332348.
 
 It includes the **model implementation**, **simulation scripts**, and **figure generation** for full reproducibility of the results presented in the manuscript.
 
@@ -87,17 +87,21 @@ You are free to:
 
 If you use any script or result from this repository, please cite the following manuscript:
 
-> **Lacitignola D., Martiradonna A. (2025, forthcoming)**
-> *Can we enhance trust in the circular economy through referral marketing control? PLOS One*
+> **Lacitignola D., Martiradonna A. (2025)**
+> *Can we enhance trust in the circular economy through referral marketing control?* PLoS One, 20(9), e0332348.
 
 **BibTeX**:
 
 ```bibtex
-@unpublished{LacitignolaMartiradonna2025,
-  author    = {Lacitignola, Deborah and Martiradonna, Angela},
-  title     = {Can we enhance trust in the circular economy through referral marketing control?},
-  note      = {PLOS One},
-  year      = {2025, forthcoming}
+@article{lacitignola2025can,
+  title={Can we enhance trust in the circular economy through referral marketing control?},
+  author={Lacitignola, Deborah and Martiradonna, Angela},
+  journal={PLoS One},
+  volume={20},
+  number={9},
+  pages={e0332348},
+  year={2025},
+  publisher={Public Library of Science San Francisco, CA USA}
 }
 ```
 
