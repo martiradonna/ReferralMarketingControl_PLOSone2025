@@ -111,7 +111,6 @@ If you use any script or result from this repository, please cite the following 
 
 * **Deborah Lacitignola** – Università di Cassino e del Lazio Meridionale, Cassino (FR), Italy
 * **Angela Martiradonna** – Università di Foggia, Foggia, Italy
-  *All MATLAB code and simulations authored by Angela Martiradonna.*
 
 📬 For academic correspondence: **[angela.martiradonna@unifg.it](mailto:angela.martiradonna@unifg.it)**
 
